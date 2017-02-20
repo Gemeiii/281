@@ -1,8 +1,8 @@
-import Animals.*;
+import Animals.*;     //everything thats under that folder
 
 public class Main {
-  public static void main(String[] args){
-    BasicAnimal basicAnimal1 = new BasicAnimal();
+  public static void main(String[] args){           //basic setup
+    BasicAnimal basicAnimal1 = new BasicAnimal();   //method
     basicAnimal1.makeNoise();
     
 
